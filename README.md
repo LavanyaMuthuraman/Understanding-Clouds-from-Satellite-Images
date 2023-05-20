@@ -7,7 +7,7 @@
 
 <img alt="iwild" src="https://storage.googleapis.com/kaggle-media/competitions/MaxPlanck/Teaser_AnimationwLabels.gif" width="650px"/>
 
-### **Problem Statement**
+### **Description**
 
 The objective of this [project](https://www.kaggle.com/c/understanding_cloud_organization) is **to develop a model that can accurately classify cloud organization patterns from satellite images.** By identifying regions in the images that contain specific cloud formations, such as **Fish, Flower, Gravel, and Sugar,** the model will assist scientists in better understanding how clouds contribute to climate patterns and aid in reducing uncertainties in climate projections. The challenge involves segmenting the regions of each cloud formation label within the test set images.
 
